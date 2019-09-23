@@ -1,0 +1,40 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/8.9.1/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.6.0/bin/node">
+      <version-cache version="6.6.0" last-modified="1473874249000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="186-94-33-255,,,20-57-80-255" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="WordPress Main Plugin File" />
+    <property name="KEYMAP" value="find" />
+    <property name="OpenOrAttachDialog.OpenMode" value="new" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PhpStorm.dumbRunEnabled" value="true" />
+    <property name="PhpStorm.initialConfigurationShown" value="true" />
+    <property name="RunConfigurable.dividerProportion" value="0.25787964" />
+    <property name="SettingsSearchHistory" value="Setting Repository&#10;set&#10;Wrapping&#10;map&#10;typo" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SplitFileEditor.Proportion" value="0.57067716" />
+    <property name="TrendingPluginsSearchHistory" value="Read-only sources&#10;BrowseWordAtCaret" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.docker.view.DockerViewContribution.0" value="300" />
+    <property name="evlsprt3.172" value="15" />
+    <property name="evlsprt3.183" value="19" />
+    <property name="file.chooser.recent.files" value="/Volumes/Wdy/root/wdy/kkb-tos" />
+    <property name="file.gist.reindex.count" value="163268" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="lastTip" value="63" />
+    <property name="php.embedded.stubs.notification.provider.do.not.show.again.property" value="true" />
+    <property name="selected.color.option.type" value="TYPO" />
+    <property name="settings.code.style.selected.tab.PHP" value="Code Generation" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.6717441" />
+  </component>
+</application>
