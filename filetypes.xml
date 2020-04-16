@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="00e247cc9704bc58609f1f378bdf4eea60ee33f4" type="PLAIN_TEXT" />
       <mapping pattern="quickSort.php" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
     </extensionMap>
