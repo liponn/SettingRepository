@@ -1,0 +1,71 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry>q</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1610270347977">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/PageService/StudentCoursePS.php" timestamp="1610268994628">
+        <mark key="[" line="856" column="59" />
+        <mark key="]" line="856" column="59" />
+        <mark key="^" line="856" column="59" />
+        <mark key="." line="856" column="58" />
+      </file>
+      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Controllers/Web/StudentController.php" timestamp="1610270431557">
+        <mark key="[" line="641" column="5" />
+        <mark key="]" line="641" column="8" />
+        <mark key="." line="641" column="7" />
+        <mark key="^" line="641" column="8" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">U3R1ZGVudFBTOjpjbGFzcyktPkNoZWNrTW9iaWxlSXNiaW5kKA==</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">U3R1ZGVudFBTOjpjbGFzcyktPkNoZWNrTW9iaWxlSXNiaW5kKA==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>
