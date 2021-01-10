@@ -30,15 +30,15 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Listeners/UserWechatBind.php" timestamp="1610278745300" />
-      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Listeners/MiduiUserWechatBind.php" timestamp="1610279723882">
-        <mark key="[" line="58" column="30" />
-        <mark key="]" line="58" column="52" />
-        <mark key="^" line="58" column="52" />
-        <mark key="." line="58" column="51" />
+      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Listeners/MiduiUserWechatBind.php" timestamp="1610281352367">
+        <mark key="[" line="54" column="82" />
+        <mark key="]" line="54" column="92" />
+        <mark key="^" line="54" column="92" />
+        <mark key="." line="54" column="91" />
       </file>
-      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/PageService/CourseAuthRecordPS.php" timestamp="1610280086974">
+      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/PageService/CourseAuthRecordPS.php" timestamp="1610280166083">
         <mark key="'" line="132" column="0" />
-        <mark key="[" line="147" column="12" />
+        <mark key="[" line="148" column="5" />
         <mark key="]" line="148" column="12" />
         <mark key="^" line="148" column="12" />
         <mark key="." line="148" column="11" />
@@ -57,7 +57,7 @@
       <file name="$USER_HOME$/wdy/docker_condition/app/src/passport/routes/api.php" timestamp="1610278618460" />
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/PageService/StudentPS.php" timestamp="1610277587338" />
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/PageService/SSOStudentLoginPS.php" timestamp="1610279801790" />
-      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Controllers/Web/StudentController.php" timestamp="1610279045182">
+      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Controllers/Web/StudentController.php" timestamp="1610281147800">
         <mark key="[" line="402" column="49" />
         <mark key="]" line="403" column="49" />
         <mark key="." line="403" column="48" />
@@ -86,32 +86,35 @@
       <register name="0" type="4">
         <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldFdlY2hhdE1hcEluZm9CeVVuaW9uSWQoc3RyaW5nICR1bmlvbklkKQogICAgewogICAgICAgICR1c2VyX3dlY2hhdF9tYXAgPSBhcHAoS0tCU2VydmljZTo6Y2xhc3MpLT5TU08tPmdldFdlY2hhdE1hcEJ5VW5pb25JZCgkdW5pb25JZCk7CiAgICAgICAgaWYgKGVtcHR5KCR1c2VyX3dlY2hhdF9tYXApKXsKICAgICAgICAgICAgdGhyb3cgbmV3IElubmVyU2VydmljZUV4Y2VwdGlvbigpOwogICAgICAgIH0KICAgICAgICBpZiAoJHVzZXJfd2VjaGF0X21hcFsnY29kZSddID09PSAgUkVTUE9OU0VfU1VDQ0VTU19DT0RFKXsKICAgICAgICAgICAgcmV0dXJuICR1c2VyX3dlY2hhdF9tYXBbJ2RhdGEnXTsKICAgICAgICB9ZWxzZWlmKCR1c2VyX3dlY2hhdF9tYXBbJ2NvZGUnXSA9PT0gUkVTUE9OU0VfRU1QVFlfQ09ERSl7CiAgICAgICAgICAgIHJldHVybiBbXTsKICAgICAgICB9CiAgICAgICAgdGhyb3cgbmV3IElubmVyU2VydmljZUV4Y2VwdGlvbign6YCa6L+HdW5pb25pZOiOt+WPlndlY2hhdF9tYXBfaW5mb+Wksei0pe+8mlsnLiR1c2VyX3dlY2hhdF9tYXBbJ2NvZGUnXS4nXScuJHVzZXJfd2VjaGF0X21hcFsnbXNnJ10pOwogICAgfQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2Vycm9ybXNnJyA9PiAn6K++56iL5o6I5p2D5aSx6LSlJywKICAgICAgICAgICAgICAgICdlcnJvcmRhdGEnID0+ICRpdGVtLAogICAgICAgICAgICAgICAgJ2NvZGUnPT4kZS0+Z2V0Q29kZSgpLAogICAgICAgICAgICAgICAgJ21lc3NhZ2UnPT4kZS0+Z2V0TWVzc2FnZSgpCiAgICAgICAgICAgIF0=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICR0aGlzLT5zeW5jU3R1ZGVudEZyb21QYXNzcG9ydCg=</text>
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2Vycm9ybXNnJyA9PiAn6K++56iL5o6I5p2D5aSx6LSlJywKICAgICAgICAgICAgICAgICdlcnJvcmRhdGEnID0+ICRpdGVtLAogICAgICAgICAgICAgICAgJ2NvZGUnPT4kZS0+Z2V0Q29kZSgpLAogICAgICAgICAgICAgICAgJ21lc3NhZ2UnPT4kZS0+Z2V0TWVzc2FnZSgpCiAgICAgICAgICAgIF0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQYXNzcG9ydFVzZXJJbmZvQnlVaWQoaW50ICR1aWQpCiAgICB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQYXNzcG9ydFVzZXJJbmZvQnlVaWQoaW50ICR1aWQpCiAgICB7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBtaWR1aUdldFdlY2hhdE1hcEluZm9CeVVuaW9uSWQoc3RyaW5nICR1bmlvbklkKQogICAgewogICAgICAgICR1c2VyX3dlY2hhdF9tYXAgPSBhcHAoS0tCU2VydmljZTo6Y2xhc3MpLT5NaWR1aVNTTy0+Z2V0V2VjaGF0TWFwQnlVbmlvbklkKCR1bmlvbklkKTsKICAgICAgICBpZiAoZW1wdHkoJHVzZXJfd2VjaGF0X21hcCkpewogICAgICAgICAgICB0aHJvdyBuZXcgSW5uZXJTZXJ2aWNlRXhjZXB0aW9uKCk7CiAgICAgICAgfQogICAgICAgIGlmICgkdXNlcl93ZWNoYXRfbWFwWydjb2RlJ10gPT09ICBSRVNQT05TRV9TVUNDRVNTX0NPREUpewogICAgICAgICAgICByZXR1cm4gJHVzZXJfd2VjaGF0X21hcFsnZGF0YSddOwogICAgICAgIH1lbHNlaWYoJHVzZXJfd2VjaGF0X21hcFsnY29kZSddID09PSBSRVNQT05TRV9FTVBUWV9DT0RFKXsKICAgICAgICAgICAgcmV0dXJuIFtdOwogICAgICAgIH0KICAgICAgICB0aHJvdyBuZXcgSW5uZXJTZXJ2aWNlRXhjZXB0aW9uKCfpgJrov4d1bmlvbmlk6I635Y+Wd2VjaGF0X21hcF9pbmZv5aSx6LSl77yaWycuJHVzZXJfd2VjaGF0X21hcFsnY29kZSddLiddJy4kdXNlcl93ZWNoYXRfbWFwWydtc2cnXSk7CiAgICA=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">J0FwcFxFdmVudHNcVXNlcldlY2hhdEJpbmRFdmVudCcgICAgICAgPT4gWwogICAgICAgICAgICAnQXBwXExpc3RlbmVyc1xVc2VyV2VjaGF0QmluZCcKICAgICAgICBdLA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICR0aGlzLT5zeW5jU3R1ZGVudEZyb21QYXNzcG9ydCg=</text>
+        <text encoding="base64">LCA=</text>
       </register>
     </registers>
   </component>
