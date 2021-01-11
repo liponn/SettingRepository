@@ -44,9 +44,9 @@
       <file name="$USER_HOME$/wdy/docker_condition/app/src/passport/routes/api.php" timestamp="1610349049680" />
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/PageService/SSOStudentLoginPS.php" timestamp="1610279801790" />
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Controllers/Web/CourseController.php" timestamp="1610349397373" />
-      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/DataService/CourseTreeDS.php" timestamp="1610352645462">
-        <mark key="[" line="342" column="54" />
-        <mark key="]" line="342" column="55" />
+      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/DataService/CourseTreeDS.php" timestamp="1610354764108">
+        <mark key="[" line="341" column="78" />
+        <mark key="]" line="342" column="54" />
         <mark key="." line="342" column="54" />
         <mark key="^" line="342" column="55" />
       </file>
@@ -105,8 +105,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2Vycm9ybXNnJyA9PiAn6K++56iL5o6I5p2D5aSx6LSlJywKICAgICAgICAgICAgICAgICdlcnJvcmRhdGEnID0+ICRpdGVtLAogICAgICAgICAgICAgICAgJ2NvZGUnPT4kZS0+Z2V0Q29kZSgpLAogICAgICAgICAgICAgICAgJ21lc3NhZ2UnPT4kZS0+Z2V0TWVzc2FnZSgpCiAgICAgICAgICAgIF0=</text>
@@ -133,7 +133,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
     </registers>
   </component>
