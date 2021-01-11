@@ -8,8 +8,8 @@
     <history>
       <history-cmd>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
     </history>
   </component>
@@ -26,8 +26,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/vendor/kkb/common/src/Services/MiduiSSO.php" timestamp="1610277734707" />
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Listeners/UserWechatBind.php" timestamp="1610278745300" />
+      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Models/ContentModel.php" timestamp="1610350742260">
+        <mark key="[" line="37" column="35" />
+        <mark key="]" line="37" column="45" />
+        <mark key="." line="37" column="44" />
+        <mark key="^" line="37" column="45" />
+      </file>
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/PageService/CourseAuthRecordPS.php" timestamp="1610280166083">
         <mark key="'" line="132" column="0" />
         <mark key="[" line="148" column="5" />
@@ -36,18 +41,26 @@
         <mark key="." line="148" column="11" />
       </file>
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/routes/web.php" timestamp="1610347454931" />
-      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Events/MiduiUserWechatBindEvent.php" timestamp="1610277980713">
-        <mark key="[" line="12" column="7" />
-      </file>
-      <file name="$USER_HOME$/wdy/docker_condition/app/src/passport/routes/api.php" timestamp="1610278618460" />
+      <file name="$USER_HOME$/wdy/docker_condition/app/src/passport/routes/api.php" timestamp="1610349049680" />
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/PageService/SSOStudentLoginPS.php" timestamp="1610279801790" />
-      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Events/UserWechatBindEvent.php" timestamp="1610278054041" />
-      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Controllers/Web/CourseController.php" timestamp="1610347457299" />
+      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Controllers/Web/CourseController.php" timestamp="1610349397373" />
+      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/DataService/CourseTreeDS.php" timestamp="1610351285017">
+        <mark key="[" line="338" column="21" />
+        <mark key="]" line="338" column="21" />
+        <mark key="." line="338" column="20" />
+        <mark key="^" line="338" column="21" />
+      </file>
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Listeners/MiduiUserWechatBind.php" timestamp="1610283406366">
         <mark key="[" line="44" column="52" />
         <mark key="]" line="45" column="51" />
         <mark key="^" line="45" column="51" />
         <mark key="." line="45" column="50" />
+      </file>
+      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/PageService/StudentCoursePS.php" timestamp="1610350608199">
+        <mark key="[" line="856" column="59" />
+        <mark key="]" line="856" column="59" />
+        <mark key="^" line="856" column="59" />
+        <mark key="." line="856" column="58" />
       </file>
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/DataService/ContentStudyPositionDS.php" timestamp="1610347155189">
         <mark key="[" line="15" column="50" />
@@ -56,7 +69,7 @@
         <mark key="." line="16" column="4" />
       </file>
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/routes/api.php" timestamp="1610335301451" />
-      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/PageService/StudentPS.php" timestamp="1610277587338" />
+      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/DataService/VideoLessonDS.php" timestamp="1610350547851" />
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Controllers/Web/StudentController.php" timestamp="1610283399143">
         <mark key="'" line="409" column="90" />
         <mark key="[" line="409" column="82" />
@@ -87,37 +100,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldFdlY2hhdE1hcEluZm9CeVVuaW9uSWQoc3RyaW5nICR1bmlvbklkKQogICAgewogICAgICAgICR1c2VyX3dlY2hhdF9tYXAgPSBhcHAoS0tCU2VydmljZTo6Y2xhc3MpLT5TU08tPmdldFdlY2hhdE1hcEJ5VW5pb25JZCgkdW5pb25JZCk7CiAgICAgICAgaWYgKGVtcHR5KCR1c2VyX3dlY2hhdF9tYXApKXsKICAgICAgICAgICAgdGhyb3cgbmV3IElubmVyU2VydmljZUV4Y2VwdGlvbigpOwogICAgICAgIH0KICAgICAgICBpZiAoJHVzZXJfd2VjaGF0X21hcFsnY29kZSddID09PSAgUkVTUE9OU0VfU1VDQ0VTU19DT0RFKXsKICAgICAgICAgICAgcmV0dXJuICR1c2VyX3dlY2hhdF9tYXBbJ2RhdGEnXTsKICAgICAgICB9ZWxzZWlmKCR1c2VyX3dlY2hhdF9tYXBbJ2NvZGUnXSA9PT0gUkVTUE9OU0VfRU1QVFlfQ09ERSl7CiAgICAgICAgICAgIHJldHVybiBbXTsKICAgICAgICB9CiAgICAgICAgdGhyb3cgbmV3IElubmVyU2VydmljZUV4Y2VwdGlvbign6YCa6L+HdW5pb25pZOiOt+WPlndlY2hhdF9tYXBfaW5mb+Wksei0pe+8mlsnLiR1c2VyX3dlY2hhdF9tYXBbJ2NvZGUnXS4nXScuJHVzZXJfd2VjaGF0X21hcFsnbXNnJ10pOwogICAgfQ==</text>
+        <text>$item['content_type'] == ContentModel::CONTENT_TYPE_CCVIDEO</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2Vycm9ybXNnJyA9PiAn6K++56iL5o6I5p2D5aSx6LSlJywKICAgICAgICAgICAgICAgICdlcnJvcmRhdGEnID0+ICRpdGVtLAogICAgICAgICAgICAgICAgJ2NvZGUnPT4kZS0+Z2V0Q29kZSgpLAogICAgICAgICAgICAgICAgJ21lc3NhZ2UnPT4kZS0+Z2V0TWVzc2FnZSgpCiAgICAgICAgICAgIF0=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>$wechat_map</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQYXNzcG9ydFVzZXJJbmZvQnlVaWQoaW50ICR1aWQpCiAgICB7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBtaWR1aUdldFdlY2hhdE1hcEluZm9CeVVuaW9uSWQoc3RyaW5nICR1bmlvbklkKQogICAgewogICAgICAgICR1c2VyX3dlY2hhdF9tYXAgPSBhcHAoS0tCU2VydmljZTo6Y2xhc3MpLT5NaWR1aVNTTy0+Z2V0V2VjaGF0TWFwQnlVbmlvbklkKCR1bmlvbklkKTsKICAgICAgICBpZiAoZW1wdHkoJHVzZXJfd2VjaGF0X21hcCkpewogICAgICAgICAgICB0aHJvdyBuZXcgSW5uZXJTZXJ2aWNlRXhjZXB0aW9uKCk7CiAgICAgICAgfQogICAgICAgIGlmICgkdXNlcl93ZWNoYXRfbWFwWydjb2RlJ10gPT09ICBSRVNQT05TRV9TVUNDRVNTX0NPREUpewogICAgICAgICAgICByZXR1cm4gJHVzZXJfd2VjaGF0X21hcFsnZGF0YSddOwogICAgICAgIH1lbHNlaWYoJHVzZXJfd2VjaGF0X21hcFsnY29kZSddID09PSBSRVNQT05TRV9FTVBUWV9DT0RFKXsKICAgICAgICAgICAgcmV0dXJuIFtdOwogICAgICAgIH0KICAgICAgICB0aHJvdyBuZXcgSW5uZXJTZXJ2aWNlRXhjZXB0aW9uKCfpgJrov4d1bmlvbmlk6I635Y+Wd2VjaGF0X21hcF9pbmZv5aSx6LSl77yaWycuJHVzZXJfd2VjaGF0X21hcFsnY29kZSddLiddJy4kdXNlcl93ZWNoYXRfbWFwWydtc2cnXSk7CiAgICA=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">J0FwcFxFdmVudHNcVXNlcldlY2hhdEJpbmRFdmVudCcgICAgICAgPT4gWwogICAgICAgICAgICAnQXBwXExpc3RlbmVyc1xVc2VyV2VjaGF0QmluZCcKICAgICAgICBdLA==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>$wechat_map</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
   </component>
