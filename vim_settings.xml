@@ -35,19 +35,25 @@
         <mark key="^" line="148" column="12" />
         <mark key="." line="148" column="11" />
       </file>
-      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/routes/web.php" timestamp="1610335368073" />
-      <file name="$USER_HOME$/wdy/docker_condition/app/src/passport/app/Http/Services/UserService.php" timestamp="1610273758068" />
+      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/routes/web.php" timestamp="1610347454931" />
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Events/MiduiUserWechatBindEvent.php" timestamp="1610277980713">
         <mark key="[" line="12" column="7" />
       </file>
       <file name="$USER_HOME$/wdy/docker_condition/app/src/passport/routes/api.php" timestamp="1610278618460" />
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/PageService/SSOStudentLoginPS.php" timestamp="1610279801790" />
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Events/UserWechatBindEvent.php" timestamp="1610278054041" />
+      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Controllers/Web/CourseController.php" timestamp="1610347457299" />
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Listeners/MiduiUserWechatBind.php" timestamp="1610283406366">
         <mark key="[" line="44" column="52" />
         <mark key="]" line="45" column="51" />
         <mark key="^" line="45" column="51" />
         <mark key="." line="45" column="50" />
+      </file>
+      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/DataService/ContentStudyPositionDS.php" timestamp="1610347155189">
+        <mark key="[" line="15" column="50" />
+        <mark key="]" line="16" column="5" />
+        <mark key="^" line="16" column="5" />
+        <mark key="." line="16" column="4" />
       </file>
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/routes/api.php" timestamp="1610335301451" />
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/PageService/StudentPS.php" timestamp="1610277587338" />
