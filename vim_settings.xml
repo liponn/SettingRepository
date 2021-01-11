@@ -26,13 +26,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Listeners/UserWechatBind.php" timestamp="1610278745300" />
-      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Models/ContentModel.php" timestamp="1610350742260">
-        <mark key="[" line="37" column="35" />
-        <mark key="]" line="37" column="45" />
-        <mark key="." line="37" column="44" />
-        <mark key="^" line="37" column="45" />
-      </file>
+      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Models/ContentModel.php" timestamp="1610357400719" />
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/PageService/CourseAuthRecordPS.php" timestamp="1610280166083">
         <mark key="'" line="132" column="0" />
         <mark key="[" line="148" column="5" />
@@ -44,10 +38,10 @@
       <file name="$USER_HOME$/wdy/docker_condition/app/src/passport/routes/api.php" timestamp="1610349049680" />
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/PageService/SSOStudentLoginPS.php" timestamp="1610279801790" />
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Controllers/Web/CourseController.php" timestamp="1610349397373" />
-      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/DataService/CourseTreeDS.php" timestamp="1610354764108">
-        <mark key="[" line="341" column="78" />
-        <mark key="]" line="342" column="54" />
-        <mark key="." line="342" column="54" />
+      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/DataService/CourseTreeDS.php" timestamp="1610354853544">
+        <mark key="[" line="759" column="0" />
+        <mark key="]" line="759" column="0" />
+        <mark key="." line="759" column="0" />
         <mark key="^" line="342" column="55" />
       </file>
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Listeners/MiduiUserWechatBind.php" timestamp="1610283406366">
@@ -99,41 +93,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>1</text>
+      </register>
       <register name="0" type="4">
         <text>$item['content_type'] == ContentModel::CONTENT_TYPE_CCVIDEO</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>1</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2Vycm9ybXNnJyA9PiAn6K++56iL5o6I5p2D5aSx6LSlJywKICAgICAgICAgICAgICAgICdlcnJvcmRhdGEnID0+ICRpdGVtLAogICAgICAgICAgICAgICAgJ2NvZGUnPT4kZS0+Z2V0Q29kZSgpLAogICAgICAgICAgICAgICAgJ21lc3NhZ2UnPT4kZS0+Z2V0TWVzc2FnZSgpCiAgICAgICAgICAgIF0=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQYXNzcG9ydFVzZXJJbmZvQnlVaWQoaW50ICR1aWQpCiAgICB7Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gd2l0aEJzeVZpZGVvKCkKICAgIHsKICAgICAgICBpZiAoJHRoaXMtPl9oYXMoJHRoaXMtPl9jb3Vyc2VUcmVlLCBzZWxmOjpDT05URU5UX0xJU1RfRklFTEQpKXsKICAgICAgICAgICAgJHRoaXMtPl9kYW5jZShzZWxmOjpDT05URU5UX0xJU1RfRklFTEQsIGZ1bmN0aW9uKCRsaXN0KXsKCiAgICAgICAgICAgIH0pOwogICAgICAgIH0KCgogICAgfQ==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2Vycm9ybXNnJyA9PiAn6K++56iL5o6I5p2D5aSx6LSlJywKICAgICAgICAgICAgICAgICdlcnJvcmRhdGEnID0+ICRpdGVtLAogICAgICAgICAgICAgICAgJ2NvZGUnPT4kZS0+Z2V0Q29kZSgpLAogICAgICAgICAgICAgICAgJ21lc3NhZ2UnPT4kZS0+Z2V0TWVzc2FnZSgpCiAgICAgICAgICAgIF0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQYXNzcG9ydFVzZXJJbmZvQnlVaWQoaW50ICR1aWQpCiAgICB7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBtaWR1aUdldFdlY2hhdE1hcEluZm9CeVVuaW9uSWQoc3RyaW5nICR1bmlvbklkKQogICAgewogICAgICAgICR1c2VyX3dlY2hhdF9tYXAgPSBhcHAoS0tCU2VydmljZTo6Y2xhc3MpLT5NaWR1aVNTTy0+Z2V0V2VjaGF0TWFwQnlVbmlvbklkKCR1bmlvbklkKTsKICAgICAgICBpZiAoZW1wdHkoJHVzZXJfd2VjaGF0X21hcCkpewogICAgICAgICAgICB0aHJvdyBuZXcgSW5uZXJTZXJ2aWNlRXhjZXB0aW9uKCk7CiAgICAgICAgfQogICAgICAgIGlmICgkdXNlcl93ZWNoYXRfbWFwWydjb2RlJ10gPT09ICBSRVNQT05TRV9TVUNDRVNTX0NPREUpewogICAgICAgICAgICByZXR1cm4gJHVzZXJfd2VjaGF0X21hcFsnZGF0YSddOwogICAgICAgIH1lbHNlaWYoJHVzZXJfd2VjaGF0X21hcFsnY29kZSddID09PSBSRVNQT05TRV9FTVBUWV9DT0RFKXsKICAgICAgICAgICAgcmV0dXJuIFtdOwogICAgICAgIH0KICAgICAgICB0aHJvdyBuZXcgSW5uZXJTZXJ2aWNlRXhjZXB0aW9uKCfpgJrov4d1bmlvbmlk6I635Y+Wd2VjaGF0X21hcF9pbmZv5aSx6LSl77yaWycuJHVzZXJfd2VjaGF0X21hcFsnY29kZSddLiddJy4kdXNlcl93ZWNoYXRfbWFwWydtc2cnXSk7CiAgICA=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">J0FwcFxFdmVudHNcVXNlcldlY2hhdEJpbmRFdmVudCcgICAgICAgPT4gWwogICAgICAgICAgICAnQXBwXExpc3RlbmVyc1xVc2VyV2VjaGF0QmluZCcKICAgICAgICBdLA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>1</text>
       </register>
     </registers>
   </component>
