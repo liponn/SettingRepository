@@ -71,6 +71,7 @@
         <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Controllers/Web/StudentCourseProgressController.php" timestamp="1610283204839" />
+      <file name="$USER_HOME$/wdy/docker_condition/app/src/api-learn/config/routes.php" timestamp="1610339276573" />
     </filemarks>
     <jumps>
       <jump line="119" column="0" filename="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/PageService/CourseAuthRecordPS.php" />
