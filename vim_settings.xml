@@ -44,11 +44,11 @@
       <file name="$USER_HOME$/wdy/docker_condition/app/src/passport/routes/api.php" timestamp="1610349049680" />
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/PageService/SSOStudentLoginPS.php" timestamp="1610279801790" />
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Controllers/Web/CourseController.php" timestamp="1610349397373" />
-      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/DataService/CourseTreeDS.php" timestamp="1610351285017">
-        <mark key="[" line="338" column="21" />
-        <mark key="]" line="338" column="21" />
-        <mark key="." line="338" column="20" />
-        <mark key="^" line="338" column="21" />
+      <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Http/Services/DataService/CourseTreeDS.php" timestamp="1610352645462">
+        <mark key="[" line="342" column="54" />
+        <mark key="]" line="342" column="55" />
+        <mark key="." line="342" column="54" />
+        <mark key="^" line="342" column="55" />
       </file>
       <file name="$USER_HOME$/wdy/docker_condition/app/src/learn-center/app/Listeners/MiduiUserWechatBind.php" timestamp="1610283406366">
         <mark key="[" line="44" column="52" />
